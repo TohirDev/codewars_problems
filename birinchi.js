@@ -1,1 +1,1 @@
-document.getElementById("Salom")
+document.getElementById("Birinchi")
